@@ -1,0 +1,31 @@
+<snippet>
+	<content><![CDATA[
+<div class="controls">
+     <select id="select01" class="span1 street-type">
+          <option value="0">Street Type</option>
+          <option value="13">Alley</option>
+          <option value="1">Ave</option>
+          <option value="2">Blvd</option>
+          <option value="19">Center</option>
+          <option value="3">Circle</option>
+          <option value="15">Crescent</option>
+          <option value="4">Ct</option>
+          <option value="5">Dr</option>
+          <option value="6">Hwy</option>
+          <option value="20">Isle</option>
+          <option value="7">Lane</option>
+          <option value="14">Pike</option>
+          <option value="8">Pkwy</option>
+          <option value="9">Pl</option>
+          <option value="16">Plaza</option>
+          <option value="10">Rd</option>
+          <option value="17">Square</option>
+          <option value="11">St</option>
+          <option value="18">Terrace</option>
+          <option value="12">Way</option>
+     </select>
+</div>
+]]>
+</content>
+	 <tabTrigger>bsi</tabTrigger> 
+</snippet>

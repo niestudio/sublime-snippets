@@ -1,13 +1,10 @@
 <snippet>
   <content><![CDATA[<div class="row-fluid"><!--desc-->
-  <div class="span4">
+  <div class="span6">
     $1
-  </div>
-  <div class="span4">
+  </div><!--/span-->
+  <div class="span6">
     $2
-  </div>
-  <div class="span4">
-    $3
   </div>
 </div><!--/desc-->]]></content>
   <tabTrigger>bs</tabTrigger>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<input type="text" class="span2 inline datepicker" placeholder="dd/mm/yyyy">
+]]>
+</content>
+	 <tabTrigger>bsi</tabTrigger> 
+</snippet>

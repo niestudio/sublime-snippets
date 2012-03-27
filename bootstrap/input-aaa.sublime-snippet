@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<input type="text" class="span$1" placeholder="$2">
+]]>
+</content>
+	 <tabTrigger>bsi</tabTrigger> 
+</snippet>
