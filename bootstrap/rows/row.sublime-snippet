@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<!--desc--><div class="row-fluid">
+  $1
+</div><!--/desc-->]]></content>
+  <tabTrigger>bs</tabTrigger>
+</snippet>
